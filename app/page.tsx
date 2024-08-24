@@ -90,7 +90,7 @@ export default function LandingPageWithHero() {
             <span className="font-thin tracking-wider">fingertips.</span>
           </h1>
           <p className="my-10 text-gray-800 font-light max-w-xl dark:text-gray-200">
-            AcePay simplified international payments so that you don't have to worry about your
+            AcePay simplified international payments so that you dont have to worry about your
             money. Grab your licence and start earning today!
           </p>
           <div className="relative px-8 py-2 border rounded-3xl bg-white cursor-pointer inline-block">
